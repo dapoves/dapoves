@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Dario+Poves;Welcome+to+my+profile)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="giphy.gif" alt="Descripción del GIF">
 </p>
