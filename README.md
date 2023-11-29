@@ -1,6 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&weight=900&size=30&duration=3000&pause=1000&color=18EC39DD&center=true&random=false&width=435&lines=Hy+there!;I'm+Dar%C3%ADo+Poves;Welcome+to+my+profile)](https://git.io/typing-svg)
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&weight=900&size=30&duration=3000&pause=1000&color=18EC39DD&center=true&random=false&width=435&lines=Hy+there!;I'm+Dar%C3%ADo+Poves;Welcome+to+my+profile" alt="Typing SVG" /></a>
   <img src="giphy.gif" alt="Descripción del GIF">
 </p>
 
