@@ -1,4 +1,6 @@
-![banner](giphy.gif)
+<p align="center">
+  <img src="giphy.gif" alt="Descripción del GIF">
+</p>
 
 
 <!--
